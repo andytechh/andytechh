@@ -9,20 +9,8 @@ andytechh/andytechh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # libarary_management_system-
-Why use C++?
+Game Development: C++ is widely used in the gaming industry to develop high-performance video games. Game engines like Unreal Engine and Unity use C++ extensively for their core components due to its speed and efficiency.
 
-Default (GPT-3.5)
+System Software: C++ is used in the development of system-level software such as operating systems, device drivers, and embedded systems. It provides low-level access to hardware resources, making it suitable for building critical software components.
 
-User
-Why you need to use c++? give me 3 
-
-ChatGPT
-Certainly! Here are three reasons why you might want to use C++:
-
-Performance: C++ is known for its high performance. It allows you to write code that executes quickly and efficiently, making it suitable for applications where speed is crucial, such as video games, real-time simulations, and high-frequency trading systems.
-
-Low-Level Control: C++ provides low-level control over hardware resources, memory management, and system-level operations. This level of control is valuable for building operating systems, device drivers, and embedded systems.
-
-Compatibility: C++ is a widely used language with a large ecosystem of libraries and tools. It can be used for cross-platform development, enabling you to write code that works on different operating systems and architectures without major modifications.
-
-These are just a few of the reasons why C++ is still a popular choice for many developers and industries.
+Financial Software: Many financial institutions and trading firms use C++ to develop software for algorithmic trading, risk management, and data analysis. Its performance and control over memory make it a preferred choice for handling large volumes of financial data efficiently.
