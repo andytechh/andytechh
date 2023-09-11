@@ -9,16 +9,16 @@ andytechh/andytechh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # libarary_management_system-
-Advantages:
+Disadvantages:
 
-Powerful and Versatile: C++ is a highly versatile language that can be used for a wide range of applications, from system programming to game development.
+Complexity: C++ can be complex and challenging to learn, especially for beginners. Its extensive feature set and low-level capabilities can lead to more error-prone code.
 
-Performance: C++ allows for low-level memory manipulation and efficient use of system resources, making it suitable for performance-critical applications.
+Memory Management: Manual memory management in C++ can lead to memory leaks and other memory-related errors if not done correctly.
 
-Object-Oriented: C++ supports object-oriented programming (OOP), allowing for the organization of code into reusable and modular structures.
+Verbose Syntax: C++ code can be verbose compared to some modern languages, which may slow down development.
 
-Standard Template Library (STL): The STL provides a rich collection of pre-built classes and functions, making it easier to implement data structures and algorithms.
+Lack of Garbage Collection: C++ does not have built-in garbage collection, so developers must manage memory explicitly, which can be error-prone.
 
-Multi-Paradigm: C++ supports both procedural and object-oriented programming paradigms, giving developers flexibility in their coding approaches.
+Compatibility Issues: Different compilers and platforms may have subtle incompatibilities in C++ code, requiring additional effort to ensure cross-platform compatibility.
 
-Wide Adoption: C++ has been around for a long time and is widely used in various industries, resulting in a large community and numerous resources for developers
+Slower Development: Due to its complexity and need for careful memory management, development in C++ can be slower compared to higher-level languages.
