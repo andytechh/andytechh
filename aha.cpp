@@ -72,6 +72,7 @@ int main(){
 	deduction = income*(10.0/100.0); 
 	netincome = income - static_cast<int>(deduction);
 	cout << fixed;
+ 	cout << "\n";
 	cout << "Income: " << setprecision(2)<< income << endl; 
 	cout << "Deduction: " << setprecision(2) << deduction << endl; 
 	cout << "Net Income: " << setprecision(2) <<netincome << endl; 
