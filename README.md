@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andy G. Lazarte 1st year BSIT Student
+- 👋 Hi, I’m Andy G. Lazarte 2nd year BSIT Student
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on any projects in c++
