@@ -12,3 +12,4 @@ https://www.figma.com/design/lGuqUQJdSZvV0tNcmmfya4/Untitled?node-id=1-2&t=Ujovq
 --->
 
 https://www.figma.com/design/n46J3A6LwN6HZOdJQzpF7Z/Untitled?node-id=0-1&t=BRvPR3veokcRituW-1
+https://www.figma.com/design/ne5Ret1NgLQqficBwkQD4H/Activity-7?node-id=0-1&t=l0NMrQznWokBQrM8-1
