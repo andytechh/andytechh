@@ -10,6 +10,18 @@ andytechh/andytechh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 https://www.figma.com/design/lGuqUQJdSZvV0tNcmmfya4/Untitled?node-id=1-2&t=UjovqP2ujPcfGQUB-1
 --->
+<?php
+$servername = "localhost";
+$username = "root"; // Change this if you have a different MySQL user
+$password = ""; // Change this if you have set a password for MySQL
+$database = "user_database";
 
-https://www.figma.com/design/n46J3A6LwN6HZOdJQzpF7Z/Untitled?node-id=0-1&t=BRvPR3veokcRituW-1
-https://www.figma.com/design/ne5Ret1NgLQqficBwkQD4H/Activity-7?node-id=0-1&t=l0NMrQznWokBQrM8-1
+// Create connection
+$conn = new mysqli($servername, $username, $password, $database);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>
+
