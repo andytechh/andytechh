@@ -11,8 +11,3 @@ You can click the Preview link to take a look at your changes.
 https://www.figma.com/design/lGuqUQJdSZvV0tNcmmfya4/Untitled?node-id=1-2&t=UjovqP2ujPcfGQUB-1
 --->
 https://elms.catcollege.edu.ph/login/index.php
-#include <iostream>
-
-https://www.figma.com/design/D2NYafKfllU7Hf0lLuCNlN/Lazarte_Activity10?node-id=5-266&t=jHGVZUU9zLC7CkmL-1
-
-https://www.figma.com/design/AAorEpqPQY831UMtZIcfgH/Untitled?node-id=0-1&t=mJ4eoiB5OijeYrac-1
